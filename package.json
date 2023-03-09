@@ -13,6 +13,8 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@builder.io/gatsby": "^3.0.3",
+    "@builder.io/react": "^2.0.15",
     "gatsby": "^5.3.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

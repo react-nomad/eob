@@ -1,6 +1,6 @@
-import * as React from "react"
+import React from "react"
 
-const Home = () => {
+const Index = () => {
 
   return (
 
@@ -11,4 +11,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Index
